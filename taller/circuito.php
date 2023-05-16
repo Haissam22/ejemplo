@@ -20,7 +20,7 @@
         $intensidad=$_GET["intensidad"];
         $voltaje=$resistencia*$intensidad;
         echo "la intensidad es $intensidad <br> la resistencia es $resistencia <br> el voltaje es $voltaje";
-
+        
     }
     ?>
 </body>
